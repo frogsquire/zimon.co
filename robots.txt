@@ -3,6 +3,5 @@ User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
 Disallow: /mtimans/
-Disallow: /cdemo/
-Disallow: /res_complete_files/
 Disallow: /rem/
+Disallow: /electron/

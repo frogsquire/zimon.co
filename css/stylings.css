@@ -65,15 +65,6 @@ header a:active, header a:hover, header a:visited:hover {
 }
 
 /* Content */ 
-
-.content-section.active {
-	display: block;	
-}
-
-.content-section.hide {
-	display: none;
-}
-
 .content-section {
 	padding-top: 10px;
 	padding-bottom: 10px;
