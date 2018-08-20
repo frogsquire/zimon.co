@@ -74,6 +74,7 @@ header a:active, header a:hover, header a:visited:hover {
 	width: 95%;
 	font-weight: 300;
 	font-family: "Roboto", sans-serif;
+	display: none; 
 }
 
 .content-section h3 {
