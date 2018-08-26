@@ -6,6 +6,7 @@ body {
 	margin-right: auto;
 	width: 85%;
 	overflow-y: overlay;
+	overflow-x: hidden;
 }
 
 a:link, a:visited {
