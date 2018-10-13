@@ -110,6 +110,11 @@ header a:active, header a:hover, header a:visited:hover {
 	font-size: 14pt;
 }
 
+h4.lower {
+	border-top: 1px solid #000;
+	padding-top: 20px;
+}
+
 .column h5 { 
 	font-size: 12pt;
 	margin-bottom: 0px;
